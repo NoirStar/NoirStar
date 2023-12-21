@@ -86,8 +86,6 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 </div>
 <br><br><br>
 <!-- Hit counter -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoirstar&count_bg=%23AB70E3&title_bg=%236F6E70&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-<br><br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
