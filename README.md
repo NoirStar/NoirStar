@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=About Me!&fontSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=About+Me!&fontSize=40" width="100%"/>
 <br><br>
     
 <!-- Title Typing Effect -->
@@ -75,8 +75,8 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 <div align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233" width=47%/>
 <img src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=dark" width=47%/>
-
-<br><br>
+    
+<br>
 
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirstar&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
