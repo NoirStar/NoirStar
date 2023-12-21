@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=김트리)
+![header](https://capsule-render.vercel.app/api?type=waving&text=TREE's%20Git)
 
 ### Hi there 👋
 
