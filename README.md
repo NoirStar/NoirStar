@@ -69,16 +69,19 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 </div>
 
 </details>
+
+<br><br><br>
+<!-- 백준 -->
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
+<img src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
+
+
 <br><br>
 <div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirstar&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=noirstar&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=noirstar&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-
-<!-- 백준 -->
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
-<img align="left" src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
 
 <!-- My snake 
 <img src="https://github.com/noirstar/noirstar/blob/output/mysnake.svg" width="100%">-->
