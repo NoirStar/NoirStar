@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=NoirStar)
+![header](https://capsule-render.vercel.app/api?type=waving&text=김트리)
 
 ### Hi there 👋
 
