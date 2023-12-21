@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=NoirStar Github)
+![header](https://capsule-render.vercel.app/api?type=waving&text=NoirStar%Github)
 
 ### Hi there 👋
 
