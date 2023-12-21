@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&fontSize=40&text=NoirStar)
 
 <div align="center">
- 
-  
-## NoirStar 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoirstar&count_bg=%23AB70E3&title_bg=%236F6E70&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://noirstar.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
 
@@ -14,8 +11,8 @@
  
 </div>
 <div align="center">
-  <img align="left" src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
+  <img align="left" src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
 </div>
 
 
