@@ -72,7 +72,7 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 
 <br><br><br>
 <!-- 백준 -->
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233&theme=dark"/>
 <img src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
 
 
