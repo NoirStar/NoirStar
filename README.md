@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=TREE's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=🌱&fontSize=40)
 
 ### Hi there 👋
 
@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
