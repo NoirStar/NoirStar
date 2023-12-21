@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=TREE's%20Git)
+![header](https://capsule-render.vercel.app/api?type=waving&text=TREE's%20Github&fontSize=40)
 
 ### Hi there 👋
 
