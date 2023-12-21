@@ -1,39 +1,92 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontSize=40&text=NoirStar)
-
 <div align="center">
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<br><br>
+    
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello,+I+am+passionate+about+software+development+and+cybersecurity." alt="Typing SVG" /></a>
+<br>
+<div align="center">  
+<br>
+<!-- My CV/resume -->
+<details>
+<summary>📌 About Me</summary>
+<br><br>
+<span>
+  <a href="https://noirstar.tistory.com">
+    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=Tistory&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="mailto:sky_9233@naver.com">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoirstar&count_bg=%23AB70E3&title_bg=%236F6E70&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://noirstar.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
+## WORK EXPERIENCE
+- AhnLab Intern ```(02/2019 ~ 04/2019)```  (Pangyo, Gyeonggi-do)
+- AhnLab ```(02/2019 ~ Present)```  (Pangyo, Gyeonggi-do)
 
-  🎓 abc
-  🔎 abc   
-  🗣 abc
-  <br>
- 
+## EDUCATION
+- 🎓 Bachelor Degree of Electrical Engineering ```(03/2012 ~ 02/2019)``` (Dong-A University, Busan)
+- 🔥 K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019)``` (Seoul)
+
+## ADDITIONAL SKILLS
+<span>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+</span>
+   
+<span>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+</span>
+
 </div>
+</div>
+
+</details>
+<br><br>
 <div align="center">
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
-  <img align="left" src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
+<!-- My profile -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirstar&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=noirstar&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noirstar&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+
+<!-- 백준 -->
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky9233"/>
+<img align="left" src="http://mazandi.herokuapp.com/api?handle=sky9233&theme=warm"/>
+
+<!-- My snake -->
+<img src="https://github.com/noirstar/noirstar/blob/output/mysnake.svg" width="100%">
+
+<br><br>
+<!-- Hit counter -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoirstar&count_bg=%23AB70E3&title_bg=%236F6E70&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+<br><br><br><br>
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
-
-
-<div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirstar&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-  
-  ### 🛠 SKILL 🛠
- 
-  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-  <br>
- 
-</div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
