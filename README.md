@@ -22,12 +22,12 @@
 <br><br>
 
 <h2 align="left">WORK EXPERIENCE</h2>
-<p align="left">
+<div align="left">
 |Company|Duration|Location|
 |--------|--------|--------|
 |AhnLab Intern| ```2019/02 ~ 2019/04```|Pangyo, Gyeonggi-do|
 |AhnLab| ```2019/20 ~ Present```|Pangyo, Gyeonggi-do| 
-</p>
+</div>
 
 ## EDUCATION
 |Certificate|Duration|Location|
