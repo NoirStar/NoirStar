@@ -7,21 +7,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;Software+development;Cybersecurity" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
-<br>
+<br><br>
 <!-- My CV/resume -->
-<br><br>
-  <a href="https://noirstar.tistory.com">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="mailto:sky_9233@naver.com">
-    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-<br><br>
+
 
 <h2 align="left">WORK EXPERIENCE</h2>
+
 <table align="left">
   <tr>
     <th>Company</th>
@@ -40,14 +31,29 @@
   </tr>
 </table>
 
-## EDUCATION
-|Certificate|Duration|Location|
-|--------|--------|--------|
-|Bachelor Degree of Electrical Engineering| ```2012/03 ~ 2019/02```|Dong-A University, Busan|
-|K-Shield Jr. 1st / Security Incident Analysis and Response| ```2018/09 ~ 2019/01```|Seoul|
+<br/>
 
+<h2 align="left">EDUCATION</h2>
 
-## ADDITIONAL SKILLS
+<table align="left">
+  <tr>
+    <th>Certificate</th>
+    <th>Duration</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td>Bachelor Degree of Electrical Engineering</td>
+    <td>2012/03 ~ 2019/02</td>
+    <td>Dong-A University, Busan</td>
+  </tr>
+  <tr>
+    <td>K-Shield Jr. 1st / Security Incident Analysis and Response</td>
+    <td>2018/09 ~ 2019/01</td>
+    <td>Seoul</td>
+  </tr>
+</table>
+
+## SKILLS
 <span>
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
 </span>
@@ -95,8 +101,19 @@
 <img src="https://github.com/noirstar/noirstar/blob/output/mysnake.svg" width="100%">-->
 
 </div>
-<br><br><br>
 <!-- Hit counter -->
+
+<br><br>
+  <a href="https://noirstar.tistory.com">
+    <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:sky_9233@naver.com">
+    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+<br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
