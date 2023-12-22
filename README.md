@@ -9,8 +9,6 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<details>
-<summary>About Me</summary>
 <br><br>
 <span>
   <a href="https://noirstar.tistory.com">
@@ -32,7 +30,7 @@
 ## WORK EXPERIENCE
 |-|-|
 AhnLab Intern| ```(02/2019 ~ 04/2019)```|Pangyo, Gyeonggi-do
-AhnLab|```(02/2019 ~ Present)```|Pangyo, Gyeonggi-do
+AhnLab ```(02/2019 ~ Present)```  (Pangyo, Gyeonggi-do)  
 
 ## EDUCATION
 Bachelor Degree of Electrical Engineering ```(03/2012 ~ 02/2019)``` (Dong-A University, Busan)  
@@ -69,7 +67,6 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 </div>
 </div>
 
-</details>
 
 <br><br><br>
 <!-- 백준 -->
