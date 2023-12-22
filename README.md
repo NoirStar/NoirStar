@@ -68,8 +68,7 @@
     </span>
     <span>
         <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
-    </span>
-      
+    </span>  
     <span>
         <img src="https://img.shields.io/badge/ HTML-yellow?style=flat&logo=HTML5&logoColor=white"/>
     </span>
@@ -110,17 +109,13 @@
   </div>
   <!-- Hit counter -->
   
+  <div align="center">
   <br><br>
     <a href="https://noirstar.tistory.com">
       <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
     </a>
-    <a href="mailto:sky_9233@naver.com">
-      <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/">
-      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
   <br><br>
+  </div>
   
   <!-- Footer banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
