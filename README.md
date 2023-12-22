@@ -94,7 +94,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noirstar&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
   
   <!-- My snake-->
-  <img src="  https://github.com/NoirStar/NoirStar/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/NoirStar/NoirStar/blob/output/github-snake-dark.svg" width="100%">
   </div>
   <br><br>
 
