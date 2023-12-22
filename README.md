@@ -60,16 +60,11 @@
   
   <h2 align="left">SKILLS</h2>
   <div align="left">
-    <span>
-        <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
-    </span>  
-    <span>
-        <img src="https://img.shields.io/badge/ JavaScript-white?style=flat&logo=JavaScript&logoColor=black"/>
-    </span>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+      
   </div>
 
   </div>
@@ -96,7 +91,7 @@
   <!-- Hit counter -->
   
   <h3 align="left">Contact</h3>
-  <div align="center">
+  <div align="left">
     <a href="https://noirstar.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=noirstar.tistory.com"/></a>&nbsp
     <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>&nbsp
     <a href="mailto:sky_9233@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
