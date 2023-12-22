@@ -58,33 +58,35 @@
   </div>
 
   
-  ## SKILLS
-  <span>
-      <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ Matlab-red?style=flat"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
-  </span>
-     
-  <span>
-      <img src="https://img.shields.io/badge/ HTML-yellow?style=flat&logo=HTML5&logoColor=white"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ CSS-darkorange?style=flat&logo=CSS3&logoColor=white"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ jQuery-white?style=flat&logo=jQuery&logoColor=black"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ JavaScript-white?style=flat&logo=JavaScript&logoColor=black"/>
-  </span>
-  <span>
-      <img src="https://img.shields.io/badge/ LaTeX-black?style=flat&logo=LaTeX&logoColor=white"/>
-  </span>
-  
+  <h2 align="left">SKILLS</h2>
+  <div align="left">
+    <span>
+        <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ Matlab-red?style=flat"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
+    </span>
+      
+    <span>
+        <img src="https://img.shields.io/badge/ HTML-yellow?style=flat&logo=HTML5&logoColor=white"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ CSS-darkorange?style=flat&logo=CSS3&logoColor=white"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ jQuery-white?style=flat&logo=jQuery&logoColor=black"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ JavaScript-white?style=flat&logo=JavaScript&logoColor=black"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/ LaTeX-black?style=flat&logo=LaTeX&logoColor=white"/>
+    </span>
+  </div>
+
   </div>
   </div>
   
