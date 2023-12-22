@@ -28,7 +28,8 @@
 <br><br>
 
 ## WORK EXPERIENCE
-|---|---|---|
+|        |        |        |
+|--------|--------|--------|
 |AhnLab Intern| ```(02/2019 ~ 04/2019)```|Pangyo, Gyeonggi-do|
 |AhnLab| ```(02/2019 ~ Present)```|Pangyo, Gyeonggi-do| 
 
