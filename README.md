@@ -51,7 +51,7 @@
         <th>Location</th>
       </tr>
       <tr>
-        <td>Bachelor Degree of Electrical Engineering</td>
+        <td>Bachelor Degree of Electronic Engineering</td>
         <td>2012/03 ~ 2019/02</td>
         <td>Dong-A University, Busan</td>
       </tr>
