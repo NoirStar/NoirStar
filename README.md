@@ -33,7 +33,7 @@
       </tr>
       <tr>
         <td>AhnLab</td>
-        <td>2019/20 ~ Present</td>
+        <td>2019/02 ~ Present</td>
         <td>Pangyo, Gyeonggi-do</td>
       </tr>
     </table>
