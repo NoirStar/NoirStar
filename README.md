@@ -31,7 +31,8 @@
   </tr>
 </table>
 
-<br>
+<br/>
+<br/>
 
 <h2 align="left">EDUCATION</h2>
 
@@ -53,7 +54,8 @@
   </tr>
 </table>
 
-<br>
+<br/>
+<br/>
 
 ## SKILLS
 <span>
