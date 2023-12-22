@@ -10,29 +10,24 @@
 <br>
 <!-- My CV/resume -->
 <br><br>
-<span>
   <a href="https://noirstar.tistory.com">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
   </a>
-</span>
-<span>
   <a href="mailto:sky_9233@naver.com">
     <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-</span>
-<span>
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/>
   </a>
-</span>
 <br><br>
 
-## WORK EXPERIENCE
+<h2 align="left">WORK EXPERIENCE</h2>
+<p align="left">
 |Company|Duration|Location|
 |--------|--------|--------|
 |AhnLab Intern| ```2019/02 ~ 2019/04```|Pangyo, Gyeonggi-do|
 |AhnLab| ```2019/20 ~ Present```|Pangyo, Gyeonggi-do| 
-
+</p>
 
 ## EDUCATION
 |Certificate|Duration|Location|
