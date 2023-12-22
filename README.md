@@ -61,29 +61,15 @@
   <h2 align="left">SKILLS</h2>
   <div align="left">
     <span>
-        <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
-    </span>
-    <span>
-        <img src="https://img.shields.io/badge/ Matlab-red?style=flat"/>
-    </span>
-    <span>
         <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
     </span>  
     <span>
-        <img src="https://img.shields.io/badge/ HTML-yellow?style=flat&logo=HTML5&logoColor=white"/>
-    </span>
-    <span>
-        <img src="https://img.shields.io/badge/ CSS-darkorange?style=flat&logo=CSS3&logoColor=white"/>
-    </span>
-    <span>
-        <img src="https://img.shields.io/badge/ jQuery-white?style=flat&logo=jQuery&logoColor=black"/>
-    </span>
-    <span>
         <img src="https://img.shields.io/badge/ JavaScript-white?style=flat&logo=JavaScript&logoColor=black"/>
     </span>
-    <span>
-        <img src="https://img.shields.io/badge/ LaTeX-black?style=flat&logo=LaTeX&logoColor=white"/>
-    </span>
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
   </div>
 
   </div>
@@ -109,12 +95,11 @@
   </div>
   <!-- Hit counter -->
   
+  <h3 align="left">Contact</h3>
   <div align="center">
-  <br><br>
-    <a href="https://noirstar.tistory.com">
-      <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
-    </a>
-  <br><br>
+    <a href="https://noirstar.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=noirstar.tistory.com"/></a>&nbsp
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>&nbsp
+    <a href="mailto:sky_9233@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
   
   <!-- Footer banner -->
