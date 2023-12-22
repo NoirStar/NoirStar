@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<br/>
+<br>
 
 <h2 align="left">EDUCATION</h2>
 
@@ -52,6 +52,8 @@
     <td>Seoul</td>
   </tr>
 </table>
+
+<br>
 
 ## SKILLS
 <span>
