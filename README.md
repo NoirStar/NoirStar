@@ -28,14 +28,17 @@
 <br><br>
 
 ## WORK EXPERIENCE
-|        |        |        |
+|Company|Duration|Location|
 |--------|--------|--------|
-|AhnLab Intern| ```(02/2019 ~ 04/2019)```|Pangyo, Gyeonggi-do|
-|AhnLab| ```(02/2019 ~ Present)```|Pangyo, Gyeonggi-do| 
+|AhnLab Intern| ```2019/02 ~ 2019/04```|Pangyo, Gyeonggi-do|
+|AhnLab| ```2019/20 ~ Present```|Pangyo, Gyeonggi-do| 
+
 
 ## EDUCATION
-Bachelor Degree of Electrical Engineering ```(03/2012 ~ 02/2019)``` (Dong-A University, Busan)  
-K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019)``` (Seoul)  
+|Certificate|Duration|Location|
+|--------|--------|--------|
+|Bachelor Degree of Electrical Engineering| ```2012/03 ~ 2019/02```|Dong-A University, Busan|
+|K-Shield Jr. 1st / Security Incident Analysis and Response| ```2018/09 ~ 2019/01```|Seoul|
 
 
 ## ADDITIONAL SKILLS
