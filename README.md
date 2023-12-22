@@ -14,23 +14,23 @@
 <br><br>
 <span>
   <a href="https://noirstar.tistory.com">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
 <span>
   <a href="mailto:sky_9233@naver.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <span>
   <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 <br><br>
 
 ## WORK EXPERIENCE
-AhnLab Intern ```(02/2019 ~ 04/2019)```  (Pangyo, Gyeonggi-do)  
+AhnLab Intern| ```(02/2019 ~ 04/2019)```|Pangyo, Gyeonggi-do
 AhnLab ```(02/2019 ~ Present)```  (Pangyo, Gyeonggi-do)  
 
 ## EDUCATION
@@ -40,29 +40,29 @@ K-Shield Jr. 1st / Security Incident Analysis and Response ```(09/2018 ~ 01/2019
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/ Matlab-red?style=flat"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
 </span>
    
 <span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=flat&logo=HTML5&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=flat&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ jQuery-white?style=flat&logo=jQuery&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ JavaScript-white?style=flat&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ LaTeX-black?style=flat&logo=LaTeX&logoColor=white"/>
 </span>
 
 </div>
