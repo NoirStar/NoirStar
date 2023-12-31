@@ -16,7 +16,6 @@
   </div>
   
   <br><br>
-
   
   <h2 align="left">WORK EXPERIENCE</h2>
   
