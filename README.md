@@ -38,7 +38,7 @@
       </tr>
     </table>
   </div>
-    
+
   
   <h2 align="left">EDUCATION</h2>
   
