@@ -15,7 +15,6 @@
     <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>
   </div>
 
-
   <br><br>
   
   <h2 align="left">WORK EXPERIENCE</h2>
