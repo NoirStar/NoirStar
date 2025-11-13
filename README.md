@@ -93,18 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noirstar&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noirstar&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
   
-  <!-- My snake
-  <img src="https://github.com/NoirStar/NoirStar/blob/output/github-snake.svg" width="100%">
-  </div>
-  <br><br>
-  -->
-
-  <!-- Hit counter -->
-  <div align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/noirstar&count_bg=%23d78bf7&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-  </div>
-  <br><br>
-
 
   <!-- Footer banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
