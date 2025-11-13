@@ -2,13 +2,15 @@
   <!-- Header banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=40" width="100%"/> 
   <br><br>    
-                     
+
   <!-- gitanimals --> 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/NoirStar"/>
   </a>
 </div>
+  <br><br>
+  
   <!-- My CV/resume -->
   <div align="center">
     <a href="https://noirstar.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=noirstar.tistory.com"/></a>
